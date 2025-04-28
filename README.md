@@ -6,4 +6,5 @@ This project focuses on building a predictive model to optimize sales using hist
 ## 2. Business Intelligence KPI Dashboard for Management
 
 Project Overview
-The goal of this project was to create a KPI dashboard to assist managers in monitoring key business indicators. These KPIs include monthly sales, return rates, and other important metrics. The project used Python, pandas, and matplotlib for data cleaning and visualization.
+In this project, a KPI dashboard was created using the Restaurant Business Rankings 2020 dataset from Kaggle. The objective was to help managers visualize and monitor the business performance of the restaurant sector through key metrics such as annual sales, unit growth, and average sales per location.
+
